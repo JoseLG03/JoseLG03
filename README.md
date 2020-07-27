@@ -7,4 +7,6 @@ Soy Ingeniero en Tecnlogías de la Información que estoy trabajando duramente p
 - 🔥 Estoy abierto a colaborar con proyectos y Startups...
 - 💬 Puedes contactarme en [Linkedin](https://www.linkedin.com/in/jose-lopez-70588596/) ...
 
+Happy codding...👍
+
 
