@@ -9,7 +9,7 @@ Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLG03)](https://github.com/JoseLG03/github-readme-stats)
 
-![Pepe's github stats](https://github-readme-stats.vercel.app/api?username=JoseLG03)
+![José López github stats](https://github-readme-stats.vercel.app/api?username=JoseLG03)
 
 Happy codding...👍
 
