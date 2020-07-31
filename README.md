@@ -8,7 +8,6 @@ Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente 
 - 💬 Puedes contactarme en [Linkedin](https://www.linkedin.com/in/jose-lopez-70588596/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLG03)](https://github.com/JoseLG03/github-readme-stats)
-[José López github stats](https://github-readme-stats.vercel.app/api?username=JoseLG03)
 
 Happy codding...👍
 
