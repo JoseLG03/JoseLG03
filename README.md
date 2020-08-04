@@ -1,4 +1,4 @@
-### Hola soy José 🧑 <img src="https://www.gifsanimados.org/data/media/1645/saludar-con-la-mano-imagen-animada-0080.gif" width="30" height="30" /> 
+### <img src="https://img2.freepng.es/20180618/ovy/kisspng-programmer-computer-programming-computer-software-computer-engineer-5b2783b6411ad6.7503479315293162782667.jpg width="30" height="30""/> Hola soy José <img src="https://www.gifsanimados.org/data/media/1645/saludar-con-la-mano-imagen-animada-0080.gif" width="30" height="30" /> 
 <hr/>
 Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente para conseguir un cambio radical de profesión para dedicarme al Desarrollador Web de tiempo completo. Para seguir mi pasión y lograr un cambio de de vida.  
 
