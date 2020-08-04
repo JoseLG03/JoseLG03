@@ -8,6 +8,4 @@ Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente 
 - 🔥 Estoy abierto a colaborar con proyectos y Startups...
 - 💬 Puedes contactarme en [Linkedin](https://www.linkedin.com/in/jose-lopez-70588596/).
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLG03)](https://github.com/JoseLG03/github-readme-stat)
-
 Happy codding...👍
