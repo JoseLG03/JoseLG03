@@ -1,4 +1,4 @@
-### Hola soy José   <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="15" height="15" /> 
+### Hola soy José                <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="20" height="20" /> 
 <hr/>
 Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente para conseguir un cambio radical de profesión para dedicarme al Desarrollador Web de tiempo completo. Para seguir mi pasión y lograr un cambio de de vida.  
 
