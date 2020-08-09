@@ -1,6 +1,6 @@
 ### <img src="https://www.gifsanimados.org/data/media/1645/saludar-con-la-mano-imagen-animada-0080.gif" width="30" height="30" />  Hola soy José   👨🏻‍💻
 <hr/>
-Soy Ingeniero en Tecnologías de la Información que estoy trabajando duramente para conseguir un cambio radical de profesión para dedicarme al Desarrollador Web de tiempo completo. Para seguir mi pasión y lograr un cambio profesional en mi vida.  
+Soy un Ingeniero en Tecnologías de la Información que esta trabajando duramente para conseguir un cambio radical de profesión para dedicarme al Desarrollador Web de tiempo completo. Estoy siguiendo mi pasión y busco un cambio profesional en mi vida.  
 
 <!-- **JoseLG03/JoseLG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
